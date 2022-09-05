@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\io.o
+./release\public.o
+./release\init.o
+./release\datastr.o
+./release\strategy.o
+./release\qrc_image.o
+./release\qrc_music.o
+./release\moc_mainwindow.o
+);

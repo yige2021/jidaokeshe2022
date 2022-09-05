@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bg.png</file>
+        <file>img/bg2.png</file>
+        <file>img/bus.png</file>
+        <file>img/icon.png</file>
+        <file>img/iconmini.png</file>
+        <file>img/pause.png</file>
+        <file>img/quit.png</file>
+        <file>img/start.png</file>
+        <file>img/step.png</file>
+        <file>img/stop.png</file>
+        <file>img/track.png</file>
+        <file>img/clo.png</file>
+        <file>img/cnt.png</file>
+        <file>img/tar.png</file>
+        <file>img/author1and2.png</file>
+    </qresource>
+</RCC>

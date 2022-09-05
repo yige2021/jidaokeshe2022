@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\io.o
+./debug\public.o
+./debug\init.o
+./debug\datastr.o
+./debug\strategy.o
+./debug\qrc_image.o
+./debug\qrc_music.o
+./debug\moc_mainwindow.o
+);
