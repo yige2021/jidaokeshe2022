@@ -4,7 +4,7 @@
 
 课题名称：自动公交车调度
 
-作者：计算机学院13-15班 Group04 梁晨锐（组长）、孙懿、闫晨浩
+作者：计算机学院13-15班 Group04 [梁晨锐](https://github.com/Liangchenrui)（组长）、[孙懿](https://github.com/yige2021)、闫晨浩
 
 ### 本仓库包含：
 1. 单文件核心版源码（已通过OJ平台全部测试点），位于SingleFile文件夹
